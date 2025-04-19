@@ -1,4 +1,4 @@
 # Checkpoint Debugging React
 
-https://github.com/DBusuru/Checkpoint_Debugging_React.git
+https://github.com/Fauzia-001/Debugging_checkpoint.git
 
